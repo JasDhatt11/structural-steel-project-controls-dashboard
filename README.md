@@ -60,9 +60,7 @@ Based on the analysis, I would recommend:
 
 ## Dashboard
 
-The Power BI dashboard provides a visual summary of the project's cost, schedule, risk, and change-order performance.
-
-A screenshot of the completed dashboard is included in this repository.
+<img width="1669" height="960" alt="image" src="https://github.com/user-attachments/assets/91cdabd2-86c5-4584-93fc-ac2dddfe738f" />
 
 ## What I Learned
 
