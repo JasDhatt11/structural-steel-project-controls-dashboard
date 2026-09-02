@@ -8,7 +8,7 @@ I created this project to practice applying project management and project contr
 
 The project is based on a simulated structural steel project. I used the project data to look at costs, labour hours, schedule delays, risks, and change orders and then built a Power BI dashboard to give a project manager a quick view of project performance.
 
-> **Data Note:** The dataset used in this project is simulated and was created for portfolio and learning purposes. It is not based on an actual Imperial Metal project or any confidential company information.
+> **Data Note:** The dataset used in this project is simulated and was created for portfolio and learning purposes. It is not based on an actual company project or any confidential company information.
 
 ## What I Wanted to Understand
 
